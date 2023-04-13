@@ -1,1 +1,1 @@
-# tf_audio_classification
+# Tensorflow based classification of audio files
